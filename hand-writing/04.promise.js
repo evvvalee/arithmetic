@@ -109,3 +109,5 @@ function resolvePromise (mypromise, x, resolve, reject) {
     }
 }
 
+// 参考： https://juejin.cn/post/6945319439772434469#heading-26
+
