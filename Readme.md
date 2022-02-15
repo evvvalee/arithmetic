@@ -4,4 +4,8 @@
 - 1.setTimeout
 - 2.setInterval
 - 3.setTimeout实现setInterval
-- 4.基于promise A+规范手写primise
+- 4-1.基于promise A+规范手写primise
+- 4-2.promise.resolve();promise.reject();promise.all();promise.race()
+- 5.throttle 节流函数
+- 6.debounce 防抖函数
+- 7.flat 多维数组拍平
